@@ -38,9 +38,9 @@
   (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["default~features-about-about-module~features-examples-examples-module~features-feature-list-feature-~984e40e7"], {
     /***/
     "+Tre":
-    /*!**********************************************************************************************!*\
-      !*** C:/tmp/autoform/myApp/node_modules/@angular/material/__ivy_ngcc__/fesm2015/checkbox.js ***!
-      \**********************************************************************************************/
+    /*!******************************************************************************************************!*\
+      !*** C:/tmp/autoform/jurador-front/node_modules/@angular/material/__ivy_ngcc__/fesm2015/checkbox.js ***!
+      \******************************************************************************************************/
 
     /*! exports provided: MAT_CHECKBOX_CLICK_ACTION, MAT_CHECKBOX_CONTROL_VALUE_ACCESSOR, MAT_CHECKBOX_DEFAULT_OPTIONS, MAT_CHECKBOX_DEFAULT_OPTIONS_FACTORY, MAT_CHECKBOX_REQUIRED_VALIDATOR, MatCheckbox, MatCheckboxChange, MatCheckboxModule, MatCheckboxRequiredValidator, _MatCheckboxRequiredValidatorModule */
 
@@ -1251,7 +1251,7 @@
       var BigInputComponent = function BigInputComponent() {
         _classCallCheck(this, BigInputComponent);
 
-        this.value = '';
+        this.value = "";
         this.disabled = false;
         this.hasFocus = false;
       };
@@ -1302,7 +1302,7 @@
           }
         },
         directives: [_angular_material_card__WEBPACK_IMPORTED_MODULE_1__["MatCard"], _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgClass"]],
-        styles: [".big-input[_ngcontent-%COMP%] {\n  width: 100%;\n  transition: all 0.5s;\n  display: flex;\n  padding: 10px 10px 10px 20px;\n}\n.big-input[_ngcontent-%COMP%]   input[_ngcontent-%COMP%] {\n  flex-grow: 1;\n  border: 0;\n  font-size: 20px;\n  min-width: 100px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInByb2plY3RzL2FuZ3VsYXItbmdyeC1tYXRlcmlhbC1zdGFydGVyL3NyYy9hcHAvc2hhcmVkL2JpZy1pbnB1dC9iaWctaW5wdXQvYmlnLWlucHV0LmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsV0FBQTtFQUNBLG9CQUFBO0VBQ0EsYUFBQTtFQUNBLDRCQUFBO0FBQ0Y7QUFDRTtFQUNFLFlBQUE7RUFDQSxTQUFBO0VBQ0EsZUFBQTtFQUNBLGdCQUFBO0FBQ0oiLCJmaWxlIjoicHJvamVjdHMvYW5ndWxhci1uZ3J4LW1hdGVyaWFsLXN0YXJ0ZXIvc3JjL2FwcC9zaGFyZWQvYmlnLWlucHV0L2JpZy1pbnB1dC9iaWctaW5wdXQuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuYmlnLWlucHV0IHtcclxuICB3aWR0aDogMTAwJTtcclxuICB0cmFuc2l0aW9uOiBhbGwgMC41cztcclxuICBkaXNwbGF5OiBmbGV4O1xyXG4gIHBhZGRpbmc6IDEwcHggMTBweCAxMHB4IDIwcHg7XHJcblxyXG4gIGlucHV0IHtcclxuICAgIGZsZXgtZ3JvdzogMTtcclxuICAgIGJvcmRlcjogMDtcclxuICAgIGZvbnQtc2l6ZTogMjBweDtcclxuICAgIG1pbi13aWR0aDogMTAwcHg7XHJcbiAgfVxyXG59XHJcbiJdfQ== */"],
+        styles: [".big-input[_ngcontent-%COMP%] {\n  width: 100%;\n  transition: all 0.5s;\n  display: flex;\n  padding: 10px 10px 10px 20px;\n}\n.big-input[_ngcontent-%COMP%]   input[_ngcontent-%COMP%] {\n  flex-grow: 1;\n  border: 0;\n  font-size: 20px;\n  min-width: 100px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInByb2plY3RzL2p1cmFkb3Ivc3JjL2FwcC9zaGFyZWQvYmlnLWlucHV0L2JpZy1pbnB1dC9iaWctaW5wdXQuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxXQUFBO0VBQ0Esb0JBQUE7RUFDQSxhQUFBO0VBQ0EsNEJBQUE7QUFDRjtBQUNFO0VBQ0UsWUFBQTtFQUNBLFNBQUE7RUFDQSxlQUFBO0VBQ0EsZ0JBQUE7QUFDSiIsImZpbGUiOiJwcm9qZWN0cy9qdXJhZG9yL3NyYy9hcHAvc2hhcmVkL2JpZy1pbnB1dC9iaWctaW5wdXQvYmlnLWlucHV0LmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmJpZy1pbnB1dCB7XG4gIHdpZHRoOiAxMDAlO1xuICB0cmFuc2l0aW9uOiBhbGwgMC41cztcbiAgZGlzcGxheTogZmxleDtcbiAgcGFkZGluZzogMTBweCAxMHB4IDEwcHggMjBweDtcblxuICBpbnB1dCB7XG4gICAgZmxleC1ncm93OiAxO1xuICAgIGJvcmRlcjogMDtcbiAgICBmb250LXNpemU6IDIwcHg7XG4gICAgbWluLXdpZHRoOiAxMDBweDtcbiAgfVxufVxuIl19 */"],
         changeDetection: 0
       });
       /*@__PURE__*/
@@ -1311,9 +1311,9 @@
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](BigInputComponent, [{
           type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
           args: [{
-            selector: 'jurador-big-input',
-            templateUrl: './big-input.component.html',
-            styleUrls: ['./big-input.component.scss'],
+            selector: "jurador-big-input",
+            templateUrl: "./big-input.component.html",
+            styleUrls: ["./big-input.component.scss"],
             changeDetection: _angular_core__WEBPACK_IMPORTED_MODULE_0__["ChangeDetectionStrategy"].OnPush
           }]
         }], null, {
@@ -1334,9 +1334,9 @@
 
     /***/
     "Cd2c":
-    /*!*******************************************************************************************!*\
-      !*** C:/tmp/autoform/myApp/node_modules/@angular/material/__ivy_ngcc__/fesm2015/input.js ***!
-      \*******************************************************************************************/
+    /*!***************************************************************************************************!*\
+      !*** C:/tmp/autoform/jurador-front/node_modules/@angular/material/__ivy_ngcc__/fesm2015/input.js ***!
+      \***************************************************************************************************/
 
     /*! exports provided: MAT_INPUT_VALUE_ACCESSOR, MatInput, MatInputModule, MatTextareaAutosize, getMatInputUnsupportedTypeError */
 
@@ -2446,11 +2446,11 @@
           _classCallCheck(this, BigInputActionComponent);
 
           this.disabled = false;
-          this.fontSet = '';
-          this.fontIcon = '';
-          this.faIcon = '';
-          this.label = '';
-          this.color = '';
+          this.fontSet = "";
+          this.fontIcon = "";
+          this.faIcon = "";
+          this.label = "";
+          this.color = "";
           this.action = new _angular_core__WEBPACK_IMPORTED_MODULE_0__["EventEmitter"]();
           this.hasFocus = false;
         }
@@ -2520,7 +2520,7 @@
           }
         },
         directives: [_angular_material_button__WEBPACK_IMPORTED_MODULE_1__["MatButton"], _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgIf"], _angular_material_icon__WEBPACK_IMPORTED_MODULE_3__["MatIcon"], _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_4__["FaIconComponent"]],
-        styles: ["button[_ngcontent-%COMP%] {\n  padding: 0;\n  min-width: 36px;\n  margin-left: 10px;\n}\nbutton[_ngcontent-%COMP%]   mat-icon[_ngcontent-%COMP%] {\n  position: relative;\n  top: 2px;\n  font-size: 18px;\n}\nbutton[_ngcontent-%COMP%]   fa-icon[_ngcontent-%COMP%] {\n  position: relative;\n  font-size: 18px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInByb2plY3RzL2FuZ3VsYXItbmdyeC1tYXRlcmlhbC1zdGFydGVyL3NyYy9hcHAvc2hhcmVkL2JpZy1pbnB1dC9iaWctaW5wdXQtYWN0aW9uL2JpZy1pbnB1dC1hY3Rpb24uY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxVQUFBO0VBQ0EsZUFBQTtFQUNBLGlCQUFBO0FBQ0Y7QUFDRTtFQUNFLGtCQUFBO0VBQ0EsUUFBQTtFQUNBLGVBQUE7QUFDSjtBQUNFO0VBQ0Usa0JBQUE7RUFDQSxlQUFBO0FBQ0oiLCJmaWxlIjoicHJvamVjdHMvYW5ndWxhci1uZ3J4LW1hdGVyaWFsLXN0YXJ0ZXIvc3JjL2FwcC9zaGFyZWQvYmlnLWlucHV0L2JpZy1pbnB1dC1hY3Rpb24vYmlnLWlucHV0LWFjdGlvbi5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbImJ1dHRvbiB7XHJcbiAgcGFkZGluZzogMDtcclxuICBtaW4td2lkdGg6IDM2cHg7XHJcbiAgbWFyZ2luLWxlZnQ6IDEwcHg7XHJcblxyXG4gIG1hdC1pY29uIHtcclxuICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcclxuICAgIHRvcDogMnB4O1xyXG4gICAgZm9udC1zaXplOiAxOHB4O1xyXG4gIH1cclxuICBmYS1pY29uIHtcclxuICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcclxuICAgIGZvbnQtc2l6ZTogMThweDtcclxuICB9XHJcbn1cclxuIl19 */"],
+        styles: ["button[_ngcontent-%COMP%] {\n  padding: 0;\n  min-width: 36px;\n  margin-left: 10px;\n}\nbutton[_ngcontent-%COMP%]   mat-icon[_ngcontent-%COMP%] {\n  position: relative;\n  top: 2px;\n  font-size: 18px;\n}\nbutton[_ngcontent-%COMP%]   fa-icon[_ngcontent-%COMP%] {\n  position: relative;\n  font-size: 18px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInByb2plY3RzL2p1cmFkb3Ivc3JjL2FwcC9zaGFyZWQvYmlnLWlucHV0L2JpZy1pbnB1dC1hY3Rpb24vYmlnLWlucHV0LWFjdGlvbi5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLFVBQUE7RUFDQSxlQUFBO0VBQ0EsaUJBQUE7QUFDRjtBQUNFO0VBQ0Usa0JBQUE7RUFDQSxRQUFBO0VBQ0EsZUFBQTtBQUNKO0FBQ0U7RUFDRSxrQkFBQTtFQUNBLGVBQUE7QUFDSiIsImZpbGUiOiJwcm9qZWN0cy9qdXJhZG9yL3NyYy9hcHAvc2hhcmVkL2JpZy1pbnB1dC9iaWctaW5wdXQtYWN0aW9uL2JpZy1pbnB1dC1hY3Rpb24uY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyJidXR0b24ge1xuICBwYWRkaW5nOiAwO1xuICBtaW4td2lkdGg6IDM2cHg7XG4gIG1hcmdpbi1sZWZ0OiAxMHB4O1xuXG4gIG1hdC1pY29uIHtcbiAgICBwb3NpdGlvbjogcmVsYXRpdmU7XG4gICAgdG9wOiAycHg7XG4gICAgZm9udC1zaXplOiAxOHB4O1xuICB9XG4gIGZhLWljb24ge1xuICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgICBmb250LXNpemU6IDE4cHg7XG4gIH1cbn1cbiJdfQ== */"],
         changeDetection: 0
       });
       /*@__PURE__*/
@@ -2529,9 +2529,9 @@
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](BigInputActionComponent, [{
           type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
           args: [{
-            selector: 'jurador-big-input-action',
-            templateUrl: './big-input-action.component.html',
-            styleUrls: ['./big-input-action.component.scss'],
+            selector: "jurador-big-input-action",
+            templateUrl: "./big-input-action.component.html",
+            styleUrls: ["./big-input-action.component.scss"],
             changeDetection: _angular_core__WEBPACK_IMPORTED_MODULE_0__["ChangeDetectionStrategy"].OnPush
           }]
         }], null, {
@@ -2564,9 +2564,9 @@
 
     /***/
     "H0K4":
-    /*!*******************************************************************************************!*\
-      !*** C:/tmp/autoform/myApp/node_modules/@angular/cdk/__ivy_ngcc__/fesm2015/text-field.js ***!
-      \*******************************************************************************************/
+    /*!***************************************************************************************************!*\
+      !*** C:/tmp/autoform/jurador-front/node_modules/@angular/cdk/__ivy_ngcc__/fesm2015/text-field.js ***!
+      \***************************************************************************************************/
 
     /*! exports provided: AutofillMonitor, CdkAutofill, CdkTextareaAutosize, TextFieldModule */
 
@@ -3353,9 +3353,9 @@
 
     /***/
     "KZIX":
-    /*!******************************************************************************************!*\
-      !*** C:/tmp/autoform/myApp/node_modules/@angular/material/__ivy_ngcc__/fesm2015/tabs.js ***!
-      \******************************************************************************************/
+    /*!**************************************************************************************************!*\
+      !*** C:/tmp/autoform/jurador-front/node_modules/@angular/material/__ivy_ngcc__/fesm2015/tabs.js ***!
+      \**************************************************************************************************/
 
     /*! exports provided: MAT_TABS_CONFIG, MAT_TAB_GROUP, MatInkBar, MatTab, MatTabBody, MatTabBodyPortal, MatTabChangeEvent, MatTabContent, MatTabGroup, MatTabHeader, MatTabLabel, MatTabLabelWrapper, MatTabLink, MatTabNav, MatTabsModule, _MAT_INK_BAR_POSITIONER, _MatTabBodyBase, _MatTabGroupBase, _MatTabHeaderBase, _MatTabLinkBase, _MatTabNavBase, matTabsAnimations, ɵangular_material_src_material_tabs_tabs_a, ɵangular_material_src_material_tabs_tabs_b, ɵangular_material_src_material_tabs_tabs_c, ɵangular_material_src_material_tabs_tabs_d */
 
@@ -7790,9 +7790,9 @@
 
     /***/
     "Meci":
-    /*!******************************************************************************************!*\
-      !*** C:/tmp/autoform/myApp/node_modules/@angular/material/__ivy_ngcc__/fesm2015/card.js ***!
-      \******************************************************************************************/
+    /*!**************************************************************************************************!*\
+      !*** C:/tmp/autoform/jurador-front/node_modules/@angular/material/__ivy_ngcc__/fesm2015/card.js ***!
+      \**************************************************************************************************/
 
     /*! exports provided: MatCard, MatCardActions, MatCardAvatar, MatCardContent, MatCardFooter, MatCardHeader, MatCardImage, MatCardLgImage, MatCardMdImage, MatCardModule, MatCardSmImage, MatCardSubtitle, MatCardTitle, MatCardTitleGroup, MatCardXlImage */
 
@@ -8576,9 +8576,9 @@
 
     /***/
     "OZ4H":
-    /*!********************************************************************************************!*\
-      !*** C:/tmp/autoform/myApp/node_modules/@angular/material/__ivy_ngcc__/fesm2015/dialog.js ***!
-      \********************************************************************************************/
+    /*!****************************************************************************************************!*\
+      !*** C:/tmp/autoform/jurador-front/node_modules/@angular/material/__ivy_ngcc__/fesm2015/dialog.js ***!
+      \****************************************************************************************************/
 
     /*! exports provided: MAT_DIALOG_DATA, MAT_DIALOG_DEFAULT_OPTIONS, MAT_DIALOG_SCROLL_STRATEGY, MAT_DIALOG_SCROLL_STRATEGY_FACTORY, MAT_DIALOG_SCROLL_STRATEGY_PROVIDER, MAT_DIALOG_SCROLL_STRATEGY_PROVIDER_FACTORY, MatDialog, MatDialogActions, MatDialogClose, MatDialogConfig, MatDialogContainer, MatDialogContent, MatDialogModule, MatDialogRef, MatDialogTitle, _MatDialogBase, _MatDialogContainerBase, _closeDialogVia, matDialogAnimations, throwMatDialogContentAlreadyAttachedError */
 
@@ -10833,9 +10833,9 @@
 
     /***/
     "S17y":
-    /*!*******************************************************************************************!*\
-      !*** C:/tmp/autoform/myApp/node_modules/@angular/material/__ivy_ngcc__/fesm2015/chips.js ***!
-      \*******************************************************************************************/
+    /*!***************************************************************************************************!*\
+      !*** C:/tmp/autoform/jurador-front/node_modules/@angular/material/__ivy_ngcc__/fesm2015/chips.js ***!
+      \***************************************************************************************************/
 
     /*! exports provided: MAT_CHIPS_DEFAULT_OPTIONS, MAT_CHIP_AVATAR, MAT_CHIP_REMOVE, MAT_CHIP_TRAILING_ICON, MatChip, MatChipAvatar, MatChipInput, MatChipList, MatChipListChange, MatChipRemove, MatChipSelectionChange, MatChipTrailingIcon, MatChipsModule, ɵ0 */
 
@@ -13418,9 +13418,9 @@
 
     /***/
     "csyo":
-    /*!******************************************************************************************************!*\
-      !*** C:/tmp/autoform/myApp/node_modules/@angular/material/__ivy_ngcc__/fesm2015/progress-spinner.js ***!
-      \******************************************************************************************************/
+    /*!**************************************************************************************************************!*\
+      !*** C:/tmp/autoform/jurador-front/node_modules/@angular/material/__ivy_ngcc__/fesm2015/progress-spinner.js ***!
+      \**************************************************************************************************************/
 
     /*! exports provided: MAT_PROGRESS_SPINNER_DEFAULT_OPTIONS, MAT_PROGRESS_SPINNER_DEFAULT_OPTIONS_FACTORY, MatProgressSpinner, MatProgressSpinnerModule, MatSpinner */
 
@@ -14257,8 +14257,8 @@
 
           this.el = el;
           this.translate = translate;
-          el.nativeElement.style.textAlign = translate.currentLang === 'he' ? 'right' : 'left';
-          el.nativeElement.style.direction = translate.currentLang === 'he' ? 'rtl' : 'ltr';
+          el.nativeElement.style.textAlign = translate.currentLang === "he" ? "right" : "left";
+          el.nativeElement.style.direction = translate.currentLang === "he" ? "rtl" : "ltr";
         }
 
         _createClass(RtlSupportDirective, [{
@@ -14267,8 +14267,8 @@
             var _this56 = this;
 
             this.subscription = this.translate.onLangChange.subscribe(function (event) {
-              _this56.el.nativeElement.style.textAlign = event.lang === 'he' ? 'right' : 'left';
-              _this56.el.nativeElement.style.direction = event.lang === 'he' ? 'rtl' : 'ltr';
+              _this56.el.nativeElement.style.textAlign = event.lang === "he" ? "right" : "left";
+              _this56.el.nativeElement.style.direction = event.lang === "he" ? "rtl" : "ltr";
             });
           }
         }, {
@@ -14298,7 +14298,7 @@
           type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Directive"],
           args: [{
             // eslint-disable-next-line @angular-eslint/directive-selector
-            selector: '[rtl]'
+            selector: "[rtl]"
           }]
         }], function () {
           return [{
@@ -14314,9 +14314,9 @@
 
     /***/
     "gcUQ":
-    /*!************************************************************************************************!*\
-      !*** C:/tmp/autoform/myApp/node_modules/@angular/material/__ivy_ngcc__/fesm2015/datepicker.js ***!
-      \************************************************************************************************/
+    /*!********************************************************************************************************!*\
+      !*** C:/tmp/autoform/jurador-front/node_modules/@angular/material/__ivy_ngcc__/fesm2015/datepicker.js ***!
+      \********************************************************************************************************/
 
     /*! exports provided: DateRange, DefaultMatCalendarRangeStrategy, MAT_DATEPICKER_SCROLL_STRATEGY, MAT_DATEPICKER_SCROLL_STRATEGY_FACTORY, MAT_DATEPICKER_SCROLL_STRATEGY_FACTORY_PROVIDER, MAT_DATEPICKER_VALIDATORS, MAT_DATEPICKER_VALUE_ACCESSOR, MAT_DATE_RANGE_SELECTION_STRATEGY, MAT_RANGE_DATE_SELECTION_MODEL_FACTORY, MAT_RANGE_DATE_SELECTION_MODEL_PROVIDER, MAT_SINGLE_DATE_SELECTION_MODEL_FACTORY, MAT_SINGLE_DATE_SELECTION_MODEL_PROVIDER, MatCalendar, MatCalendarBody, MatCalendarCell, MatCalendarHeader, MatDateRangeInput, MatDateRangePicker, MatDateSelectionModel, MatDatepicker, MatDatepickerContent, MatDatepickerInput, MatDatepickerInputEvent, MatDatepickerIntl, MatDatepickerModule, MatDatepickerToggle, MatDatepickerToggleIcon, MatEndDate, MatMonthView, MatMultiYearView, MatRangeDateSelectionModel, MatSingleDateSelectionModel, MatStartDate, MatYearView, matDatepickerAnimations, yearsPerPage, yearsPerRow, ɵangular_material_src_material_datepicker_datepicker_a, ɵangular_material_src_material_datepicker_datepicker_b, ɵangular_material_src_material_datepicker_datepicker_c, ɵangular_material_src_material_datepicker_datepicker_d, ɵangular_material_src_material_datepicker_datepicker_e */
 
@@ -22206,9 +22206,9 @@
 
     /***/
     "k8N0":
-    /*!**************************************************************************************************!*\
-      !*** C:/tmp/autoform/myApp/node_modules/@angular/material/__ivy_ngcc__/fesm2015/slide-toggle.js ***!
-      \**************************************************************************************************/
+    /*!**********************************************************************************************************!*\
+      !*** C:/tmp/autoform/jurador-front/node_modules/@angular/material/__ivy_ngcc__/fesm2015/slide-toggle.js ***!
+      \**********************************************************************************************************/
 
     /*! exports provided: MAT_SLIDE_TOGGLE_DEFAULT_OPTIONS, MAT_SLIDE_TOGGLE_REQUIRED_VALIDATOR, MAT_SLIDE_TOGGLE_VALUE_ACCESSOR, MatSlideToggle, MatSlideToggleChange, MatSlideToggleModule, MatSlideToggleRequiredValidator, _MatSlideToggleRequiredValidatorModule */
 
@@ -23077,9 +23077,9 @@
 
     /***/
     "v9BS":
-    /*!********************************************************************************************!*\
-      !*** C:/tmp/autoform/myApp/node_modules/@angular/material/__ivy_ngcc__/fesm2015/slider.js ***!
-      \********************************************************************************************/
+    /*!****************************************************************************************************!*\
+      !*** C:/tmp/autoform/jurador-front/node_modules/@angular/material/__ivy_ngcc__/fesm2015/slider.js ***!
+      \****************************************************************************************************/
 
     /*! exports provided: MAT_SLIDER_VALUE_ACCESSOR, MatSlider, MatSliderChange, MatSliderModule */
 

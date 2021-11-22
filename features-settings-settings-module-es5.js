@@ -131,10 +131,10 @@
       "sCLf");
 
       var routes = [{
-        path: '',
+        path: "",
         component: _settings_settings_container_component__WEBPACK_IMPORTED_MODULE_2__["SettingsContainerComponent"],
         data: {
-          title: 'jurador.menu.settings'
+          title: "jurador.menu.settings"
         }
       }];
 
@@ -701,42 +701,42 @@
           this.store = store;
           this.routeAnimationsElements = _core_core_module__WEBPACK_IMPORTED_MODULE_2__["ROUTE_ANIMATIONS_ELEMENTS"];
           this.themes = [{
-            value: 'DEFAULT-THEME',
-            label: 'blue'
+            value: "DEFAULT-THEME",
+            label: "blue"
           }, {
-            value: 'LIGHT-THEME',
-            label: 'light'
+            value: "LIGHT-THEME",
+            label: "light"
           }, {
-            value: 'NATURE-THEME',
-            label: 'nature'
+            value: "NATURE-THEME",
+            label: "nature"
           }, {
-            value: 'BLACK-THEME',
-            label: 'dark'
+            value: "BLACK-THEME",
+            label: "dark"
           }];
           this.languages = [{
-            value: 'en',
-            label: 'English'
+            value: "en",
+            label: "English"
           }, {
-            value: 'de',
-            label: 'Deutsch'
+            value: "de",
+            label: "Deutsch"
           }, {
-            value: 'sk',
-            label: 'Slovenčina'
+            value: "sk",
+            label: "Slovenčina"
           }, {
-            value: 'fr',
-            label: 'Français'
+            value: "fr",
+            label: "Français"
           }, {
-            value: 'es',
-            label: 'Español'
+            value: "es",
+            label: "Español"
           }, {
-            value: 'pt-br',
-            label: 'Português'
+            value: "pt-br",
+            label: "Português"
           }, {
-            value: 'zh-cn',
-            label: '简体中文'
+            value: "zh-cn",
+            label: "简体中文"
           }, {
-            value: 'he',
-            label: 'עברית'
+            value: "he",
+            label: "עברית"
           }];
         }
 
@@ -849,7 +849,7 @@
         },
         directives: [_angular_common__WEBPACK_IMPORTED_MODULE_5__["NgIf"], _angular_common__WEBPACK_IMPORTED_MODULE_5__["NgClass"], _angular_material_icon__WEBPACK_IMPORTED_MODULE_6__["MatIcon"], _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_7__["FaIconComponent"], _angular_material_form_field__WEBPACK_IMPORTED_MODULE_8__["MatFormField"], _angular_material_select__WEBPACK_IMPORTED_MODULE_9__["MatSelect"], _angular_forms__WEBPACK_IMPORTED_MODULE_10__["NgControlStatus"], _angular_forms__WEBPACK_IMPORTED_MODULE_10__["NgModel"], _angular_common__WEBPACK_IMPORTED_MODULE_5__["NgForOf"], _angular_material_form_field__WEBPACK_IMPORTED_MODULE_8__["MatPlaceholder"], _angular_material_slide_toggle__WEBPACK_IMPORTED_MODULE_11__["MatSlideToggle"], _angular_material_core__WEBPACK_IMPORTED_MODULE_12__["MatOption"], _angular_material_tooltip__WEBPACK_IMPORTED_MODULE_13__["MatTooltip"]],
         pipes: [_ngx_translate_core__WEBPACK_IMPORTED_MODULE_14__["TranslatePipe"], _angular_common__WEBPACK_IMPORTED_MODULE_5__["AsyncPipe"]],
-        styles: [".container[_ngcontent-%COMP%] {\n  margin-top: 20px;\n}\n\nh1[_ngcontent-%COMP%] {\n  margin: 0 0 20px 0;\n  text-transform: uppercase;\n}\n\nh2[_ngcontent-%COMP%] {\n  margin: 0 0 10px 0;\n  text-transform: uppercase;\n}\n\n.group[_ngcontent-%COMP%] {\n  margin: 0 0 40px 0;\n}\n\n.icon-form-field[_ngcontent-%COMP%] {\n  position: relative;\n  display: flex;\n  height: 65.5px;\n  align-items: center;\n}\n\n.icon-form-field[_ngcontent-%COMP%]   mat-placeholder[_ngcontent-%COMP%] {\n  flex: 2 1 auto;\n}\n\nmat-icon[_ngcontent-%COMP%] {\n  margin: 0 6px 6px 0;\n  font-size: 20px;\n}\n\nmat-form-field[_ngcontent-%COMP%] {\n  flex: 1 0 auto;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInByb2plY3RzL2FuZ3VsYXItbmdyeC1tYXRlcmlhbC1zdGFydGVyL3NyYy9hcHAvZmVhdHVyZXMvc2V0dGluZ3Mvc2V0dGluZ3Mvc2V0dGluZ3MtY29udGFpbmVyLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsZ0JBQUE7QUFDRjs7QUFFQTtFQUNFLGtCQUFBO0VBQ0EseUJBQUE7QUFDRjs7QUFFQTtFQUNFLGtCQUFBO0VBQ0EseUJBQUE7QUFDRjs7QUFFQTtFQUNFLGtCQUFBO0FBQ0Y7O0FBRUE7RUFDRSxrQkFBQTtFQUNBLGFBQUE7RUFDQSxjQUFBO0VBQ0EsbUJBQUE7QUFDRjs7QUFDRTtFQUNFLGNBQUE7QUFDSjs7QUFHQTtFQUNFLG1CQUFBO0VBQ0EsZUFBQTtBQUFGOztBQUdBO0VBQ0UsY0FBQTtBQUFGIiwiZmlsZSI6InByb2plY3RzL2FuZ3VsYXItbmdyeC1tYXRlcmlhbC1zdGFydGVyL3NyYy9hcHAvZmVhdHVyZXMvc2V0dGluZ3Mvc2V0dGluZ3Mvc2V0dGluZ3MtY29udGFpbmVyLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmNvbnRhaW5lciB7XHJcbiAgbWFyZ2luLXRvcDogMjBweDtcclxufVxyXG5cclxuaDEge1xyXG4gIG1hcmdpbjogMCAwIDIwcHggMDtcclxuICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xyXG59XHJcblxyXG5oMiB7XHJcbiAgbWFyZ2luOiAwIDAgMTBweCAwO1xyXG4gIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7XHJcbn1cclxuXHJcbi5ncm91cCB7XHJcbiAgbWFyZ2luOiAwIDAgNDBweCAwO1xyXG59XHJcblxyXG4uaWNvbi1mb3JtLWZpZWxkIHtcclxuICBwb3NpdGlvbjogcmVsYXRpdmU7XHJcbiAgZGlzcGxheTogZmxleDtcclxuICBoZWlnaHQ6IDY1LjVweDtcclxuICBhbGlnbi1pdGVtczogY2VudGVyO1xyXG5cclxuICBtYXQtcGxhY2Vob2xkZXIge1xyXG4gICAgZmxleDogMiAxIGF1dG87XHJcbiAgfVxyXG59XHJcblxyXG5tYXQtaWNvbiB7XHJcbiAgbWFyZ2luOiAwIDZweCA2cHggMDtcclxuICBmb250LXNpemU6IDIwcHg7XHJcbn1cclxuXHJcbm1hdC1mb3JtLWZpZWxkIHtcclxuICBmbGV4OiAxIDAgYXV0bztcclxufVxyXG4iXX0= */"],
+        styles: [".container[_ngcontent-%COMP%] {\n  margin-top: 20px;\n}\n\nh1[_ngcontent-%COMP%] {\n  margin: 0 0 20px 0;\n  text-transform: uppercase;\n}\n\nh2[_ngcontent-%COMP%] {\n  margin: 0 0 10px 0;\n  text-transform: uppercase;\n}\n\n.group[_ngcontent-%COMP%] {\n  margin: 0 0 40px 0;\n}\n\n.icon-form-field[_ngcontent-%COMP%] {\n  position: relative;\n  display: flex;\n  height: 65.5px;\n  align-items: center;\n}\n\n.icon-form-field[_ngcontent-%COMP%]   mat-placeholder[_ngcontent-%COMP%] {\n  flex: 2 1 auto;\n}\n\nmat-icon[_ngcontent-%COMP%] {\n  margin: 0 6px 6px 0;\n  font-size: 20px;\n}\n\nmat-form-field[_ngcontent-%COMP%] {\n  flex: 1 0 auto;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInByb2plY3RzL2p1cmFkb3Ivc3JjL2FwcC9mZWF0dXJlcy9zZXR0aW5ncy9zZXR0aW5ncy9zZXR0aW5ncy1jb250YWluZXIuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxnQkFBQTtBQUNGOztBQUVBO0VBQ0Usa0JBQUE7RUFDQSx5QkFBQTtBQUNGOztBQUVBO0VBQ0Usa0JBQUE7RUFDQSx5QkFBQTtBQUNGOztBQUVBO0VBQ0Usa0JBQUE7QUFDRjs7QUFFQTtFQUNFLGtCQUFBO0VBQ0EsYUFBQTtFQUNBLGNBQUE7RUFDQSxtQkFBQTtBQUNGOztBQUNFO0VBQ0UsY0FBQTtBQUNKOztBQUdBO0VBQ0UsbUJBQUE7RUFDQSxlQUFBO0FBQUY7O0FBR0E7RUFDRSxjQUFBO0FBQUYiLCJmaWxlIjoicHJvamVjdHMvanVyYWRvci9zcmMvYXBwL2ZlYXR1cmVzL3NldHRpbmdzL3NldHRpbmdzL3NldHRpbmdzLWNvbnRhaW5lci5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi5jb250YWluZXIge1xuICBtYXJnaW4tdG9wOiAyMHB4O1xufVxuXG5oMSB7XG4gIG1hcmdpbjogMCAwIDIwcHggMDtcbiAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcbn1cblxuaDIge1xuICBtYXJnaW46IDAgMCAxMHB4IDA7XG4gIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7XG59XG5cbi5ncm91cCB7XG4gIG1hcmdpbjogMCAwIDQwcHggMDtcbn1cblxuLmljb24tZm9ybS1maWVsZCB7XG4gIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgZGlzcGxheTogZmxleDtcbiAgaGVpZ2h0OiA2NS41cHg7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG5cbiAgbWF0LXBsYWNlaG9sZGVyIHtcbiAgICBmbGV4OiAyIDEgYXV0bztcbiAgfVxufVxuXG5tYXQtaWNvbiB7XG4gIG1hcmdpbjogMCA2cHggNnB4IDA7XG4gIGZvbnQtc2l6ZTogMjBweDtcbn1cblxubWF0LWZvcm0tZmllbGQge1xuICBmbGV4OiAxIDAgYXV0bztcbn1cbiJdfQ== */"],
         changeDetection: 0
       });
       /*@__PURE__*/
@@ -858,9 +858,9 @@
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](SettingsContainerComponent, [{
           type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
           args: [{
-            selector: 'jurador-settings',
-            templateUrl: './settings-container.component.html',
-            styleUrls: ['./settings-container.component.scss'],
+            selector: "jurador-settings",
+            templateUrl: "./settings-container.component.html",
+            styleUrls: ["./settings-container.component.scss"],
             changeDetection: _angular_core__WEBPACK_IMPORTED_MODULE_0__["ChangeDetectionStrategy"].OnPush
           }]
         }], function () {

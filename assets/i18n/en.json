@@ -61,6 +61,6 @@
   "jurador.settings.themes.sticky-header": "Sticky header",
   "jurador.settings.themes.title": "Themes",
   "jurador.settings.title": "Settings",
-  "jurador.title.long": "Angular NgRx Material Starter",
-  "jurador.title.short": "Angular Starter"
+  "jurador.title.long": "",
+  "jurador.title.short": "Jurador"
 }
